@@ -1,18 +1,11 @@
-## Getting Started
+O objetivo desse exercício, é simular o teste da aplicação, pelo lado do cliente, ou seja, no caso a pessoa final que usará a aplicação criada, fornecendo os dados diretamente pelo terminal do cliente, sem a necessidade do uso de alguma IDE simplismente para testar a aplicação.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+DADOS QUE O CLIENTE FINAL IRÁ INCERIR NO TERMINAL:
+- Endereço do arquivo do diretório, em seguida do nome do arquivo java, em seguida, oso dados que a aplicação pede ao usuário: Nome, sobrenome, idade e altura.
 
-## Folder Structure
+C:\Users\joaop\Documents\Java\Executando o Projeto de Forma Externa\projetoExterno\bin>java AboutMe JOÃO PEDRO 27 1.71
+Ola, me chamo JOÃO PEDRO
+Tenho 27 anos
+Minha altura é 1.71cm
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+C:\Users\joaop\Documents\Java\Executando o Projeto de Forma Externa\projetoExterno\bin>
